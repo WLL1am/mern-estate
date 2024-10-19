@@ -3,15 +3,15 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Will Estate</h1>
+      <h1 className='text-3xl font-bold mb-10 text-slate-800'>About Willow</h1>
       <p className='mb-4 text-slate-700'>
-        Will Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods, Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.
+        Willow is a premier real estate agency specializing in buying, selling, and renting properties in sought-after neighborhoods. Our team of seasoned agents is committed to delivering outstanding service, ensuring a seamless and stress-free experience for our clients throughout the entire process.
       </p>
       <p className='mb-4 text-slate-700'>
-        Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way. 
+        Our mission is to help clients achieve their real estate goals by offering expert guidance, personalized support, and an in-depth knowledge of the local market. Whether you're buying, selling, or renting, we're here to assist you every step of the way. 
       </p>
       <p className='mb-4 text-slate-700'>
-        Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should by an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients. 
+        With extensive experience and industry expertise, our agents are dedicated to providing top-notch service. We believe that buying or selling a property should be an exciting and fulfilling journey, and we're committed to making that a reality for each of our clients.
       </p>
     </div>
   )
